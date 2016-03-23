@@ -1,3 +1,3 @@
 # ShareResource
 
-to help share resources in an organization
+help to share the resources in an organization
